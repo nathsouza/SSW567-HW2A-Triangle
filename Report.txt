@@ -1,0 +1,31 @@
+Initial report with faulty Code
+
+Test ID                      Input           Expected            Actual          Pass or Fail
+
+testRightTriangleA          3,4,5           Right               InvalidInput        Fail
+
+testRightTriangleB          5,3,4           Right               InvalidInput        Fail          
+
+testEquilateralTriangles    1,1,1           Equilateral         InvalidInput        Fail
+
+testEquilateral1            6,6,6           Equilateral         InvalidInput        Fail
+
+testIsosceles               9,9,5           Isoceles            InvalidInput        Fail
+
+testScalene                 8,6,4           Scalene             InvalidInput        Fail
+
+Report after correcting Code
+
+Test ID                      Input           Expected            Actual          Pass or Fail
+
+testRightTriangleA          3,4,5           Right               Right           Pass
+
+testRightTriangleB          5,3,4           Right               Right           Pass          
+
+testEquilateralTriangles    1,1,1           Equilateral         Equilateral     Pass
+
+testEquilateral1            6,6,6           Equilateral         Equilateral     Pass
+
+testIsosceles               9,9,5           Isoceles            Isoceles        Pass
+
+testScalene                 8,6,4           Scalene             Scalene         Pass
