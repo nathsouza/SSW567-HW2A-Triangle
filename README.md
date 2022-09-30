@@ -1,4 +1,4 @@
 # SSW567-HW2A-Triangle
 
-(https://circleci.com/gh/<nathsouza>/<SSW567-HW2A-Triangle>.svg?style=svg)](https://app.circleci.com/pipelines/github/<nathsouza>/<SSW567-HW2A-Triangle>?branch=main&filter=all)
+[![<nathsouza>](https://circleci.com/gh/<nathsouza>/<SSW567-HW2A-Triangle>.svg?style=svg)](https://app.circleci.com/pipelines/github/<nathsouza>/<SSW567-HW2A-Triangle>?branch=main&filter=all)
 
